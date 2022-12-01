@@ -1,0 +1,14 @@
+C:\Users\onder.bar\source\repos\Injection\Injection\bin\Debug\Injection.exe.config
+C:\Users\onder.bar\source\repos\Injection\Injection\bin\Debug\Injection.exe
+C:\Users\onder.bar\source\repos\Injection\Injection\bin\Debug\Injection.pdb
+C:\Users\onder.bar\source\repos\Injection\Injection\obj\Debug\Injection.csproj.AssemblyReference.cache
+C:\Users\onder.bar\source\repos\Injection\Injection\obj\Debug\Injection.csproj.CoreCompileInputs.cache
+C:\Users\onder.bar\source\repos\Injection\Injection\obj\Debug\Injection.exe
+C:\Users\onder.bar\source\repos\Injection\Injection\obj\Debug\Injection.pdb
+C:\Users\onder.bar\Documents\GitHub\BasicUnitTest\Injection\Injection\bin\Debug\Injection.exe.config
+C:\Users\onder.bar\Documents\GitHub\BasicUnitTest\Injection\Injection\bin\Debug\Injection.exe
+C:\Users\onder.bar\Documents\GitHub\BasicUnitTest\Injection\Injection\bin\Debug\Injection.pdb
+C:\Users\onder.bar\Documents\GitHub\BasicUnitTest\Injection\Injection\obj\Debug\Injection.csproj.AssemblyReference.cache
+C:\Users\onder.bar\Documents\GitHub\BasicUnitTest\Injection\Injection\obj\Debug\Injection.csproj.CoreCompileInputs.cache
+C:\Users\onder.bar\Documents\GitHub\BasicUnitTest\Injection\Injection\obj\Debug\Injection.exe
+C:\Users\onder.bar\Documents\GitHub\BasicUnitTest\Injection\Injection\obj\Debug\Injection.pdb

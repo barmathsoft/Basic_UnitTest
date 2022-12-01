@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Injection", "Injection\Injection.csproj", "{31B44C52-83F6-4FF5-A390-7BFF96D5EDEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InjectionTest", "InjectionTest\InjectionTest.csproj", "{CA792A85-A1AC-422E-9DED-55F561EFD8C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31B44C52-83F6-4FF5-A390-7BFF96D5EDEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31B44C52-83F6-4FF5-A390-7BFF96D5EDEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31B44C52-83F6-4FF5-A390-7BFF96D5EDEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31B44C52-83F6-4FF5-A390-7BFF96D5EDEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA792A85-A1AC-422E-9DED-55F561EFD8C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA792A85-A1AC-422E-9DED-55F561EFD8C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA792A85-A1AC-422E-9DED-55F561EFD8C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA792A85-A1AC-422E-9DED-55F561EFD8C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E84771E0-0C80-41AB-BDE3-B2E5637F1D86}
+	EndGlobalSection
+EndGlobal
